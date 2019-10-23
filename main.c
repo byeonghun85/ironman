@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("1234\n");
+	printf("123456789\n");
 }
